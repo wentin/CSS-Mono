@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave" format="1">
+  <advance width="778"/>
+  <unicode hex="00CC"/>
+  <outline>
+    <contour>
+      <point x="347" y="60" type="move"/>
+      <point x="347" y="49"/>
+      <point x="333" y="28"/>
+      <point x="303" y="28" type="curve"/>
+      <point x="303" y="0" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="476" y="28" type="line"/>
+      <point x="446" y="28"/>
+      <point x="432" y="49"/>
+      <point x="432" y="60" type="curve"/>
+    </contour>
+    <contour>
+      <point x="431" y="690" type="move"/>
+      <point x="431" y="701"/>
+      <point x="445" y="722"/>
+      <point x="475" y="722" type="curve"/>
+      <point x="475" y="750" type="line"/>
+      <point x="302" y="750" type="line"/>
+      <point x="302" y="722" type="line"/>
+      <point x="332" y="722"/>
+      <point x="346" y="711"/>
+      <point x="346" y="700" type="curve"/>
+    </contour>
+    <contour>
+      <point x="347" y="8" type="line" smooth="yes"/>
+      <point x="347" y="-8"/>
+      <point x="432" y="3"/>
+      <point x="432" y="29" type="curve" smooth="yes"/>
+      <point x="432" y="732" type="line" smooth="yes"/>
+      <point x="432" y="747"/>
+      <point x="347" y="722"/>
+      <point x="347" y="694" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="190" y="722" type="line"/>
+      <point x="588" y="722" type="line"/>
+      <point x="588" y="750" type="line"/>
+      <point x="190" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="588" y="28" type="line"/>
+      <point x="190" y="28" type="line"/>
+    </contour>
+  </outline>
+</glyph>

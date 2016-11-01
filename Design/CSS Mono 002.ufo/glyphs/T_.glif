@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="780"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="433" y="700" type="line"/>
+      <point x="345" y="700" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="433" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="276" y="18" type="line"/>
+      <point x="319" y="26"/>
+      <point x="345" y="47"/>
+      <point x="345" y="76" type="curve"/>
+      <point x="345" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="18" type="line"/>
+      <point x="460" y="26"/>
+      <point x="433" y="47"/>
+      <point x="433" y="76" type="curve"/>
+      <point x="433" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="700" type="line"/>
+      <point x="33" y="530" type="line"/>
+      <point x="62" y="530" type="line"/>
+      <point x="126" y="662"/>
+      <point x="182" y="667"/>
+      <point x="255" y="667" type="curve"/>
+      <point x="255" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="706" y="700" type="line"/>
+      <point x="523" y="700" type="line"/>
+      <point x="523" y="667" type="line"/>
+      <point x="596" y="667"/>
+      <point x="652" y="662"/>
+      <point x="717" y="530" type="curve"/>
+      <point x="746" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="667" type="line"/>
+      <point x="555" y="667" type="line"/>
+      <point x="555" y="700" type="line"/>
+      <point x="223" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>
