@@ -28,6 +28,10 @@
 	<string>h.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
+	<key>i1</key>
+	<string>i1.glif</string>
+	<key>i2</key>
+	<string>i2.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>n</key>
@@ -40,6 +44,10 @@
 	<string>q.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
+	<key>r1</key>
+	<string>r1.glif</string>
+	<key>r2</key>
+	<string>r2.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>u</key>

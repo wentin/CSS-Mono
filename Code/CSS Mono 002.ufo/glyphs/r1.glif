@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="r" format="1">
+<glyph name="r1" format="1">
   <advance width="800"/>
-  <unicode hex="0072"/>
   <outline>
     <contour>
       <point x="265" y="0" type="line"/>
@@ -39,16 +38,16 @@
     <contour>
       <point x="583" y="512" type="curve" smooth="yes"/>
       <point x="490" y="512"/>
-      <point x="355" y="463"/>
-      <point x="265" y="370" type="curve"/>
-      <point x="265" y="333" type="line"/>
-      <point x="364" y="428"/>
-      <point x="440" y="461"/>
-      <point x="494" y="461" type="curve" smooth="yes"/>
-      <point x="525" y="461"/>
-      <point x="551" y="459"/>
-      <point x="571" y="442" type="curve" smooth="yes"/>
-      <point x="588" y="427"/>
+      <point x="356" y="473"/>
+      <point x="265" y="420" type="curve"/>
+      <point x="265" y="383" type="line"/>
+      <point x="365" y="452"/>
+      <point x="420" y="468"/>
+      <point x="494" y="468" type="curve" smooth="yes"/>
+      <point x="525" y="468"/>
+      <point x="553" y="462"/>
+      <point x="573" y="445" type="curve" smooth="yes"/>
+      <point x="590" y="430"/>
       <point x="574" y="421"/>
       <point x="574" y="388" type="curve" smooth="yes"/>
       <point x="574" y="376"/>
@@ -61,4 +60,33 @@
       <point x="644" y="512"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>r</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>800</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

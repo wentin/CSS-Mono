@@ -168,6 +168,8 @@
 				<string>g</string>
 				<string>h</string>
 				<string>i</string>
+				<string>i1</string>
+				<string>i2</string>
 				<string>igrave</string>
 				<string>iacute</string>
 				<string>icircumflex</string>
@@ -187,6 +189,8 @@
 				<string>p</string>
 				<string>q</string>
 				<string>r</string>
+				<string>r1</string>
+				<string>r2</string>
 				<string>s</string>
 				<string>t</string>
 				<string>u</string>
@@ -376,6 +380,8 @@
 		<string>g</string>
 		<string>h</string>
 		<string>i</string>
+		<string>i1</string>
+		<string>i2</string>
 		<string>igrave</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
@@ -395,6 +401,8 @@
 		<string>p</string>
 		<string>q</string>
 		<string>r</string>
+		<string>r1</string>
+		<string>r2</string>
 		<string>s</string>
 		<string>t</string>
 		<string>u</string>
