@@ -93,6 +93,8 @@
 			<key>ascending</key>
 			<array>
 				<string>A</string>
+				<string>A1</string>
+				<string>A2</string>
 				<string>Agrave</string>
 				<string>Aacute</string>
 				<string>Acircumflex</string>
@@ -309,6 +311,8 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
+		<string>A1</string>
+		<string>A2</string>
 		<string>Agrave</string>
 		<string>Aacute</string>
 		<string>Acircumflex</string>
