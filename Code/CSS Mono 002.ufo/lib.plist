@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono 002.otf</string>
+	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_31.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -159,6 +159,8 @@
 				<string>aring</string>
 				<string>b</string>
 				<string>c</string>
+				<string>c1</string>
+				<string>c2</string>
 				<string>ccedilla</string>
 				<string>d</string>
 				<string>e</string>
@@ -183,6 +185,8 @@
 				<string>j</string>
 				<string>k</string>
 				<string>l</string>
+				<string>l1</string>
+				<string>l2</string>
 				<string>m</string>
 				<string>n</string>
 				<string>ntilde</string>
@@ -198,14 +202,24 @@
 				<string>r1</string>
 				<string>r2</string>
 				<string>s</string>
+				<string>s1</string>
+				<string>s2</string>
+				<string>s3</string>
+				<string>s4</string>
 				<string>t</string>
+				<string>t1</string>
+				<string>t2</string>
 				<string>u</string>
 				<string>ugrave</string>
 				<string>uacute</string>
 				<string>ucircumflex</string>
 				<string>udieresis</string>
 				<string>v</string>
+				<string>v1</string>
+				<string>v2</string>
 				<string>w</string>
+				<string>w1</string>
+				<string>w2</string>
 				<string>x</string>
 				<string>y</string>
 				<string>yacute</string>
@@ -270,8 +284,12 @@
 				<string>questiondown</string>
 				<string>plus</string>
 				<string>less</string>
+				<string>&lt;1</string>
+				<string>&lt;2</string>
 				<string>equal</string>
 				<string>greater</string>
+				<string>&gt;1</string>
+				<string>&gt;2</string>
 				<string>bar</string>
 				<string>asciitilde</string>
 				<string>logicalnot</string>
@@ -377,6 +395,8 @@
 		<string>aring</string>
 		<string>b</string>
 		<string>c</string>
+		<string>c1</string>
+		<string>c2</string>
 		<string>ccedilla</string>
 		<string>d</string>
 		<string>e</string>
@@ -401,6 +421,8 @@
 		<string>j</string>
 		<string>k</string>
 		<string>l</string>
+		<string>l1</string>
+		<string>l2</string>
 		<string>m</string>
 		<string>n</string>
 		<string>ntilde</string>
@@ -416,14 +438,24 @@
 		<string>r1</string>
 		<string>r2</string>
 		<string>s</string>
+		<string>s1</string>
+		<string>s2</string>
+		<string>s3</string>
+		<string>s4</string>
 		<string>t</string>
+		<string>t1</string>
+		<string>t2</string>
 		<string>u</string>
 		<string>ugrave</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>v</string>
+		<string>v1</string>
+		<string>v2</string>
 		<string>w</string>
+		<string>w1</string>
+		<string>w2</string>
 		<string>x</string>
 		<string>y</string>
 		<string>yacute</string>
@@ -488,8 +520,12 @@
 		<string>questiondown</string>
 		<string>plus</string>
 		<string>less</string>
+		<string>&lt;1</string>
+		<string>&lt;2</string>
 		<string>equal</string>
 		<string>greater</string>
+		<string>&gt;1</string>
+		<string>&gt;2</string>
 		<string>bar</string>
 		<string>asciitilde</string>
 		<string>logicalnot</string>

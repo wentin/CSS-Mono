@@ -8,6 +8,18 @@
 	<string>A1_.glif</string>
 	<key>A2</key>
 	<string>A2_.glif</string>
+	<key>Aacute</key>
+	<string>Aacute_.glif</string>
+	<key>Acircumflex</key>
+	<string>Acircumflex_.glif</string>
+	<key>Adieresis</key>
+	<string>Adieresis_.glif</string>
+	<key>Agrave</key>
+	<string>Agrave_.glif</string>
+	<key>Aring</key>
+	<string>Aring_.glif</string>
+	<key>Atilde</key>
+	<string>Atilde_.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>C</key>
@@ -24,16 +36,50 @@
 	<string>O_.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
+	<key>R</key>
+	<string>R_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>V</key>
+	<string>V_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
+	<key>braceleft</key>
+	<string>braceleft.glif</string>
+	<key>braceright</key>
+	<string>braceright.glif</string>
+	<key>bracketleft</key>
+	<string>bracketleft.glif</string>
+	<key>bracketright</key>
+	<string>bracketright.glif</string>
+	<key>c</key>
+	<string>c.glif</string>
+	<key>c1</key>
+	<string>c1.glif</string>
+	<key>c2</key>
+	<string>c2.glif</string>
+	<key>colon</key>
+	<string>colon.glif</string>
+	<key>comma</key>
+	<string>comma.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>e</key>
+	<string>e.glif</string>
+	<key>equal</key>
+	<string>equal.glif</string>
+	<key>f</key>
+	<string>f.glif</string>
+	<key>g</key>
+	<string>g.glif</string>
+	<key>greater</key>
+	<string>greater.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>hyphen</key>
+	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>i1</key>
@@ -48,6 +94,20 @@
 	<string>i5.glif</string>
 	<key>i6</key>
 	<string>i6.glif</string>
+	<key>idieresis</key>
+	<string>idieresis.glif</string>
+	<key>j</key>
+	<string>j.glif</string>
+	<key>k</key>
+	<string>k.glif</string>
+	<key>l</key>
+	<string>l.glif</string>
+	<key>l1</key>
+	<string>l1.glif</string>
+	<key>l2</key>
+	<string>l2.glif</string>
+	<key>less</key>
+	<string>less.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>n</key>
@@ -56,17 +116,71 @@
 	<string>o.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
+	<key>parenleft</key>
+	<string>parenleft.glif</string>
+	<key>parenright</key>
+	<string>parenright.glif</string>
+	<key>period</key>
+	<string>period.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
+	<key>quotedbl</key>
+	<string>quotedbl.glif</string>
+	<key>quoteleft</key>
+	<string>quoteleft.glif</string>
+	<key>quotesingle</key>
+	<string>quotesingle.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>r1</key>
 	<string>r1.glif</string>
 	<key>r2</key>
 	<string>r2.glif</string>
+	<key>s</key>
+	<string>s.glif</string>
+	<key>s1</key>
+	<string>s1.glif</string>
+	<key>s2</key>
+	<string>s2.glif</string>
+	<key>s3</key>
+	<string>s3.glif</string>
+	<key>s4</key>
+	<string>s4.glif</string>
+	<key>semicolon</key>
+	<string>semicolon.glif</string>
+	<key>slash</key>
+	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>t</key>
+	<string>t.glif</string>
+	<key>t1</key>
+	<string>t1.glif</string>
+	<key>t2</key>
+	<string>t2.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
+	<key>v</key>
+	<string>v.glif</string>
+	<key>v1</key>
+	<string>v1.glif</string>
+	<key>v2</key>
+	<string>v2.glif</string>
+	<key>w</key>
+	<string>w.glif</string>
+	<key>w1</key>
+	<string>w1.glif</string>
+	<key>w2</key>
+	<string>w2.glif</string>
+	<key>x</key>
+	<string>x.glif</string>
+	<key>y</key>
+	<string>y.glif</string>
+	<key>yacute</key>
+	<string>yacute.glif</string>
+	<key>ydieresis</key>
+	<string>ydieresis.glif</string>
+	<key>z</key>
+	<string>z.glif</string>
 </dict>
 </plist>
