@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_31.otf</string>
+	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_32.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -284,11 +284,11 @@
 				<string>questiondown</string>
 				<string>plus</string>
 				<string>less</string>
-				<string>&lt;1</string>
+				<string>less1</string>
 				<string>&lt;2</string>
 				<string>equal</string>
 				<string>greater</string>
-				<string>&gt;1</string>
+				<string>great1</string>
 				<string>&gt;2</string>
 				<string>bar</string>
 				<string>asciitilde</string>
@@ -520,11 +520,11 @@
 		<string>questiondown</string>
 		<string>plus</string>
 		<string>less</string>
-		<string>&lt;1</string>
+		<string>less1</string>
 		<string>&lt;2</string>
 		<string>equal</string>
 		<string>greater</string>
-		<string>&gt;1</string>
+		<string>great1</string>
 		<string>&gt;2</string>
 		<string>bar</string>
 		<string>asciitilde</string>

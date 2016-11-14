@@ -74,6 +74,8 @@
 	<string>f.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>great1</key>
+	<string>great1.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
 	<key>h</key>
@@ -108,6 +110,8 @@
 	<string>l2.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
+	<key>less1</key>
+	<string>less1.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>n</key>
