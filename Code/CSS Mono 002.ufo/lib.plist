@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_37.otf</string>
+	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_39.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -220,6 +220,8 @@
 				<string>w</string>
 				<string>w1</string>
 				<string>w2</string>
+				<string>w3</string>
+				<string>w4</string>
 				<string>x</string>
 				<string>y</string>
 				<string>yacute</string>
@@ -456,6 +458,8 @@
 		<string>w</string>
 		<string>w1</string>
 		<string>w2</string>
+		<string>w3</string>
+		<string>w4</string>
 		<string>x</string>
 		<string>y</string>
 		<string>yacute</string>
