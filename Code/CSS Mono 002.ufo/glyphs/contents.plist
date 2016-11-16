@@ -74,6 +74,10 @@
 	<string>f.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>g1</key>
+	<string>g1.glif</string>
+	<key>g2</key>
+	<string>g2.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
 	<key>greater1</key>
@@ -120,6 +124,8 @@
 	<string>m.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>numbersign</key>
+	<string>numbersign.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>one</key>
