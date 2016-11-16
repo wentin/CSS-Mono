@@ -74,10 +74,12 @@
 	<string>f.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
-	<key>great1</key>
-	<string>great1.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
+	<key>greater1</key>
+	<string>greater1.glif</string>
+	<key>greater2</key>
+	<string>greater2.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>hyphen</key>
@@ -112,12 +114,16 @@
 	<string>less.glif</string>
 	<key>less1</key>
 	<string>less1.glif</string>
+	<key>less2</key>
+	<string>less2.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
+	<key>one</key>
+	<string>one.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
 	<key>parenleft</key>
@@ -162,6 +168,8 @@
 	<string>t1.glif</string>
 	<key>t2</key>
 	<string>t2.glif</string>
+	<key>two</key>
+	<string>two.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>v</key>
