@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_40.otf</string>
+	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_55.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -76,6 +76,36 @@
 			<key>y</key>
 			<integer>712</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>cap height</string>
+			<key>showMeasurements</key>
+			<integer>1</integer>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>660</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>overshoot cap height</string>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>672</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -102,9 +132,15 @@
 				<string>Adieresis</string>
 				<string>Aring</string>
 				<string>B</string>
+				<string>B1</string>
+				<string>B2</string>
 				<string>C</string>
+				<string>C1</string>
+				<string>C2</string>
 				<string>Ccedilla</string>
 				<string>D</string>
+				<string>D1</string>
+				<string>D2</string>
 				<string>E</string>
 				<string>Egrave</string>
 				<string>Eacute</string>
@@ -112,7 +148,11 @@
 				<string>Edieresis</string>
 				<string>F</string>
 				<string>G</string>
+				<string>G1</string>
+				<string>G2</string>
 				<string>H</string>
+				<string>H1</string>
+				<string>H2</string>
 				<string>I</string>
 				<string>Igrave</string>
 				<string>Iacute</string>
@@ -121,26 +161,38 @@
 				<string>J</string>
 				<string>K</string>
 				<string>L</string>
+				<string>L1</string>
+				<string>L2</string>
 				<string>M</string>
 				<string>N</string>
 				<string>Ntilde</string>
 				<string>O</string>
+				<string>O1</string>
+				<string>O2</string>
 				<string>Ograve</string>
 				<string>Oacute</string>
 				<string>Ocircumflex</string>
 				<string>Otilde</string>
 				<string>Odieresis</string>
 				<string>P</string>
+				<string>P1</string>
+				<string>P2</string>
 				<string>Q</string>
 				<string>R</string>
+				<string>R1</string>
+				<string>R2</string>
 				<string>S</string>
 				<string>T</string>
+				<string>T1</string>
+				<string>T2</string>
 				<string>U</string>
 				<string>Ugrave</string>
 				<string>Uacute</string>
 				<string>Ucircumflex</string>
 				<string>Udieresis</string>
 				<string>V</string>
+				<string>V1</string>
+				<string>V2</string>
 				<string>W</string>
 				<string>X</string>
 				<string>Y</string>
@@ -180,15 +232,21 @@
 				<string>i4</string>
 				<string>i5</string>
 				<string>i6</string>
+				<string>i7</string>
+				<string>i8</string>
 				<string>igrave</string>
 				<string>iacute</string>
 				<string>icircumflex</string>
 				<string>idieresis</string>
 				<string>j</string>
+				<string>j1</string>
+				<string>j2</string>
 				<string>k</string>
 				<string>l</string>
 				<string>l1</string>
 				<string>l2</string>
+				<string>l3</string>
+				<string>l4</string>
 				<string>m</string>
 				<string>n</string>
 				<string>ntilde</string>
@@ -222,7 +280,6 @@
 				<string>w</string>
 				<string>w1</string>
 				<string>w2</string>
-				<string>w3</string>
 				<string>w4</string>
 				<string>x</string>
 				<string>y</string>
@@ -275,6 +332,7 @@
 				<string>ampersand</string>
 				<string>quotesingle</string>
 				<string>asterisk</string>
+				<string>asterisk2</string>
 				<string>comma</string>
 				<string>period</string>
 				<string>slash</string>
@@ -290,10 +348,21 @@
 				<string>less</string>
 				<string>less1</string>
 				<string>less2</string>
+				<string>less3</string>
+				<string>less4</string>
+				<string>less5</string>
+				<string>less8</string>
+				<string>less6</string>
+				<string>less7</string>
 				<string>equal</string>
 				<string>greater</string>
 				<string>greater1</string>
 				<string>greater2</string>
+				<string>great3</string>
+				<string>greater4</string>
+				<string>greater5</string>
+				<string>greater7</string>
+				<string>greater6</string>
 				<string>bar</string>
 				<string>asciitilde</string>
 				<string>logicalnot</string>
@@ -325,6 +394,7 @@
 				<string>degree</string>
 				<string>paragraph</string>
 				<string>space</string>
+				<string>arrow-right</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -342,9 +412,15 @@
 		<string>Adieresis</string>
 		<string>Aring</string>
 		<string>B</string>
+		<string>B1</string>
+		<string>B2</string>
 		<string>C</string>
+		<string>C1</string>
+		<string>C2</string>
 		<string>Ccedilla</string>
 		<string>D</string>
+		<string>D1</string>
+		<string>D2</string>
 		<string>E</string>
 		<string>Egrave</string>
 		<string>Eacute</string>
@@ -352,7 +428,11 @@
 		<string>Edieresis</string>
 		<string>F</string>
 		<string>G</string>
+		<string>G1</string>
+		<string>G2</string>
 		<string>H</string>
+		<string>H1</string>
+		<string>H2</string>
 		<string>I</string>
 		<string>Igrave</string>
 		<string>Iacute</string>
@@ -361,26 +441,38 @@
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
+		<string>L1</string>
+		<string>L2</string>
 		<string>M</string>
 		<string>N</string>
 		<string>Ntilde</string>
 		<string>O</string>
+		<string>O1</string>
+		<string>O2</string>
 		<string>Ograve</string>
 		<string>Oacute</string>
 		<string>Ocircumflex</string>
 		<string>Otilde</string>
 		<string>Odieresis</string>
 		<string>P</string>
+		<string>P1</string>
+		<string>P2</string>
 		<string>Q</string>
 		<string>R</string>
+		<string>R1</string>
+		<string>R2</string>
 		<string>S</string>
 		<string>T</string>
+		<string>T1</string>
+		<string>T2</string>
 		<string>U</string>
 		<string>Ugrave</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
 		<string>V</string>
+		<string>V1</string>
+		<string>V2</string>
 		<string>W</string>
 		<string>X</string>
 		<string>Y</string>
@@ -420,15 +512,21 @@
 		<string>i4</string>
 		<string>i5</string>
 		<string>i6</string>
+		<string>i7</string>
+		<string>i8</string>
 		<string>igrave</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
 		<string>j</string>
+		<string>j1</string>
+		<string>j2</string>
 		<string>k</string>
 		<string>l</string>
 		<string>l1</string>
 		<string>l2</string>
+		<string>l3</string>
+		<string>l4</string>
 		<string>m</string>
 		<string>n</string>
 		<string>ntilde</string>
@@ -462,7 +560,6 @@
 		<string>w</string>
 		<string>w1</string>
 		<string>w2</string>
-		<string>w3</string>
 		<string>w4</string>
 		<string>x</string>
 		<string>y</string>
@@ -515,6 +612,7 @@
 		<string>ampersand</string>
 		<string>quotesingle</string>
 		<string>asterisk</string>
+		<string>asterisk2</string>
 		<string>comma</string>
 		<string>period</string>
 		<string>slash</string>
@@ -530,10 +628,21 @@
 		<string>less</string>
 		<string>less1</string>
 		<string>less2</string>
+		<string>less3</string>
+		<string>less4</string>
+		<string>less5</string>
+		<string>less8</string>
+		<string>less6</string>
+		<string>less7</string>
 		<string>equal</string>
 		<string>greater</string>
 		<string>greater1</string>
 		<string>greater2</string>
+		<string>great3</string>
+		<string>greater4</string>
+		<string>greater5</string>
+		<string>greater7</string>
+		<string>greater6</string>
 		<string>bar</string>
 		<string>asciitilde</string>
 		<string>logicalnot</string>
@@ -565,6 +674,7 @@
 		<string>degree</string>
 		<string>paragraph</string>
 		<string>space</string>
+		<string>arrow-right</string>
 	</array>
 </dict>
 </plist>

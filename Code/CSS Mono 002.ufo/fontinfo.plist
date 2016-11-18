@@ -10,6 +10,12 @@
 	<integer>-220</integer>
 	<key>familyName</key>
 	<string>CSS Mono</string>
+	<key>openTypeHheaAscender</key>
+	<integer>900</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-300</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
@@ -28,6 +34,10 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
+	<key>styleMapFamilyName</key>
+	<string>CSS Mono</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>

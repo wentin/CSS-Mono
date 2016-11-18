@@ -22,28 +22,78 @@
 	<string>Atilde_.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
+	<key>B1</key>
+	<string>B1_.glif</string>
+	<key>B2</key>
+	<string>B2_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
+	<key>C1</key>
+	<string>C1_.glif</string>
+	<key>C2</key>
+	<string>C2_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
+	<key>D1</key>
+	<string>D1_.glif</string>
+	<key>D2</key>
+	<string>D2_.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
+	<key>G1</key>
+	<string>G1_.glif</string>
+	<key>G2</key>
+	<string>G2_.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
+	<key>H1</key>
+	<string>H1_.glif</string>
+	<key>H2</key>
+	<string>H2_.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
+	<key>L1</key>
+	<string>L1_.glif</string>
+	<key>L2</key>
+	<string>L2_.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
+	<key>O1</key>
+	<string>O1_.glif</string>
+	<key>O2</key>
+	<string>O2_.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
+	<key>P1</key>
+	<string>P1_.glif</string>
+	<key>P2</key>
+	<string>P2_.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
+	<key>R1</key>
+	<string>R1_.glif</string>
+	<key>R2</key>
+	<string>R2_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>T1</key>
+	<string>T1_.glif</string>
+	<key>T2</key>
+	<string>T2_.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
+	<key>V1</key>
+	<string>V1_.glif</string>
+	<key>V2</key>
+	<string>V2_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>arrow-right</key>
+	<string>arrow-right.glif</string>
+	<key>asterisk</key>
+	<string>asterisk.glif</string>
+	<key>asterisk2</key>
+	<string>asterisk2.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
 	<key>braceleft</key>
@@ -78,12 +128,22 @@
 	<string>g1.glif</string>
 	<key>g2</key>
 	<string>g2.glif</string>
+	<key>great3</key>
+	<string>great3.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
 	<key>greater1</key>
 	<string>greater1.glif</string>
 	<key>greater2</key>
 	<string>greater2.glif</string>
+	<key>greater4</key>
+	<string>greater4.glif</string>
+	<key>greater5</key>
+	<string>greater5.glif</string>
+	<key>greater6</key>
+	<string>greater6.glif</string>
+	<key>greater7</key>
+	<string>greater7.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>hyphen</key>
@@ -102,10 +162,18 @@
 	<string>i5.glif</string>
 	<key>i6</key>
 	<string>i6.glif</string>
+	<key>i7</key>
+	<string>i7.glif</string>
+	<key>i8</key>
+	<string>i8.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
+	<key>j1</key>
+	<string>j1.glif</string>
+	<key>j2</key>
+	<string>j2.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
 	<key>l</key>
@@ -114,12 +182,28 @@
 	<string>l1.glif</string>
 	<key>l2</key>
 	<string>l2.glif</string>
+	<key>l3</key>
+	<string>l3.glif</string>
+	<key>l4</key>
+	<string>l4.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
 	<key>less1</key>
 	<string>less1.glif</string>
 	<key>less2</key>
 	<string>less2.glif</string>
+	<key>less3</key>
+	<string>less3.glif</string>
+	<key>less4</key>
+	<string>less4.glif</string>
+	<key>less5</key>
+	<string>less5.glif</string>
+	<key>less6</key>
+	<string>less6.glif</string>
+	<key>less7</key>
+	<string>less7.glif</string>
+	<key>less8</key>
+	<string>less8.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>n</key>
@@ -136,6 +220,8 @@
 	<string>parenleft.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
+	<key>percent</key>
+	<string>percent.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
 	<key>q</key>
@@ -180,6 +266,8 @@
 	<string>two.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
+	<key>underscore</key>
+	<string>underscore.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>v1</key>
