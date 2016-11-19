@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>780</integer>
+	<integer>750</integer>
 	<key>capHeight</key>
-	<integer>700</integer>
+	<integer>660</integer>
 	<key>descender</key>
-	<integer>-220</integer>
+	<integer>-250</integer>
 	<key>familyName</key>
 	<string>Ex Machina</string>
 	<key>openTypeHheaAscender</key>
-	<integer>900</integer>
+	<integer>870</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-300</integer>
+	<integer>-330</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>postscriptBlueValues</key>

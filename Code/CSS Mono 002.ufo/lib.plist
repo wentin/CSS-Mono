@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_60.otf</string>
+	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_64.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -61,20 +61,6 @@
 			<integer>0</integer>
 			<key>y</key>
 			<integer>-12</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string>overshoot cap height</string>
-			<key>x</key>
-			<integer>0</integer>
-			<key>y</key>
-			<integer>712</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -276,9 +262,14 @@
 				<string>l5</string>
 				<string>l6</string>
 				<string>m</string>
+				<string>m1</string>
+				<string>m3</string>
+				<string>m2</string>
 				<string>n</string>
 				<string>ntilde</string>
 				<string>o</string>
+				<string>o1</string>
+				<string>o2</string>
 				<string>ograve</string>
 				<string>oacute</string>
 				<string>ocircumflex</string>
@@ -568,9 +559,14 @@
 		<string>l5</string>
 		<string>l6</string>
 		<string>m</string>
+		<string>m1</string>
+		<string>m3</string>
+		<string>m2</string>
 		<string>n</string>
 		<string>ntilde</string>
 		<string>o</string>
+		<string>o1</string>
+		<string>o2</string>
 		<string>ograve</string>
 		<string>oacute</string>
 		<string>ocircumflex</string>

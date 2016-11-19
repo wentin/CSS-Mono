@@ -62,6 +62,8 @@
 	<string>H1_.glif</string>
 	<key>H2</key>
 	<string>H2_.glif</string>
+	<key>I</key>
+	<string>I_.glif</string>
 	<key>K</key>
 	<string>K_.glif</string>
 	<key>L</key>
@@ -102,6 +104,8 @@
 	<string>T1_.glif</string>
 	<key>T2</key>
 	<string>T2_.glif</string>
+	<key>U</key>
+	<string>U_.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>V1</key>
@@ -246,12 +250,22 @@
 	<string>less8.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>m1</key>
+	<string>m1.glif</string>
+	<key>m2</key>
+	<string>m2.glif</string>
+	<key>m3</key>
+	<string>m3.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
+	<key>o1</key>
+	<string>o1.glif</string>
+	<key>o2</key>
+	<string>o2.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
 	<key>p</key>
