@@ -38,6 +38,18 @@
 	<string>D1_.glif</string>
 	<key>D2</key>
 	<string>D2_.glif</string>
+	<key>E</key>
+	<string>E_.glif</string>
+	<key>E1</key>
+	<string>E1_.glif</string>
+	<key>E2</key>
+	<string>E2_.glif</string>
+	<key>F</key>
+	<string>F_.glif</string>
+	<key>F1</key>
+	<string>F1_.glif</string>
+	<key>F2</key>
+	<string>F2_.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
 	<key>G1</key>
@@ -50,12 +62,22 @@
 	<string>H1_.glif</string>
 	<key>H2</key>
 	<string>H2_.glif</string>
+	<key>K</key>
+	<string>K_.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
 	<key>L1</key>
 	<string>L1_.glif</string>
 	<key>L2</key>
 	<string>L2_.glif</string>
+	<key>M</key>
+	<string>M_.glif</string>
+	<key>M1</key>
+	<string>M1_.glif</string>
+	<key>M2</key>
+	<string>M2_.glif</string>
+	<key>N</key>
+	<string>N_.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>O1</key>
@@ -86,8 +108,20 @@
 	<string>V1_.glif</string>
 	<key>V2</key>
 	<string>V2_.glif</string>
+	<key>W</key>
+	<string>W_.glif</string>
+	<key>X</key>
+	<string>X_.glif</string>
+	<key>Y</key>
+	<string>Y_.glif</string>
+	<key>Z</key>
+	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>a1</key>
+	<string>a1.glif</string>
+	<key>a2</key>
+	<string>a2.glif</string>
 	<key>arrow-right</key>
 	<string>arrow-right.glif</string>
 	<key>asterisk</key>
@@ -152,6 +186,8 @@
 	<string>i.glif</string>
 	<key>i1</key>
 	<string>i1.glif</string>
+	<key>i10</key>
+	<string>i10.glif</string>
 	<key>i2</key>
 	<string>i2.glif</string>
 	<key>i3</key>
@@ -166,14 +202,16 @@
 	<string>i7.glif</string>
 	<key>i8</key>
 	<string>i8.glif</string>
+	<key>i9</key>
+	<string>i9.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
 	<key>j1</key>
 	<string>j1.glif</string>
-	<key>j2</key>
-	<string>j2.glif</string>
+	<key>j3</key>
+	<string>j3.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
 	<key>l</key>
@@ -186,6 +224,8 @@
 	<string>l3.glif</string>
 	<key>l4</key>
 	<string>l4.glif</string>
+	<key>l5</key>
+	<string>l5.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
 	<key>less1</key>

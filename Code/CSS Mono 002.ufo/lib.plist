@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_55.otf</string>
+	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_60.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -106,6 +106,22 @@
 			<key>y</key>
 			<integer>672</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>baseline</string>
+			<key>showMeasurements</key>
+			<integer>1</integer>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>0</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -142,11 +158,15 @@
 				<string>D1</string>
 				<string>D2</string>
 				<string>E</string>
+				<string>E1</string>
+				<string>E2</string>
 				<string>Egrave</string>
 				<string>Eacute</string>
 				<string>Ecircumflex</string>
 				<string>Edieresis</string>
 				<string>F</string>
+				<string>F1</string>
+				<string>F2</string>
 				<string>G</string>
 				<string>G1</string>
 				<string>G2</string>
@@ -164,6 +184,8 @@
 				<string>L1</string>
 				<string>L2</string>
 				<string>M</string>
+				<string>M1</string>
+				<string>M2</string>
 				<string>N</string>
 				<string>Ntilde</string>
 				<string>O</string>
@@ -203,6 +225,8 @@
 				<string>Oslash</string>
 				<string>Thorn</string>
 				<string>a</string>
+				<string>a1</string>
+				<string>a2</string>
 				<string>agrave</string>
 				<string>aacute</string>
 				<string>acircumflex</string>
@@ -234,19 +258,23 @@
 				<string>i6</string>
 				<string>i7</string>
 				<string>i8</string>
+				<string>i9</string>
+				<string>i10</string>
 				<string>igrave</string>
 				<string>iacute</string>
 				<string>icircumflex</string>
 				<string>idieresis</string>
 				<string>j</string>
 				<string>j1</string>
-				<string>j2</string>
+				<string>j3</string>
 				<string>k</string>
 				<string>l</string>
 				<string>l1</string>
 				<string>l2</string>
 				<string>l3</string>
 				<string>l4</string>
+				<string>l5</string>
+				<string>l6</string>
 				<string>m</string>
 				<string>n</string>
 				<string>ntilde</string>
@@ -422,11 +450,15 @@
 		<string>D1</string>
 		<string>D2</string>
 		<string>E</string>
+		<string>E1</string>
+		<string>E2</string>
 		<string>Egrave</string>
 		<string>Eacute</string>
 		<string>Ecircumflex</string>
 		<string>Edieresis</string>
 		<string>F</string>
+		<string>F1</string>
+		<string>F2</string>
 		<string>G</string>
 		<string>G1</string>
 		<string>G2</string>
@@ -444,6 +476,8 @@
 		<string>L1</string>
 		<string>L2</string>
 		<string>M</string>
+		<string>M1</string>
+		<string>M2</string>
 		<string>N</string>
 		<string>Ntilde</string>
 		<string>O</string>
@@ -483,6 +517,8 @@
 		<string>Oslash</string>
 		<string>Thorn</string>
 		<string>a</string>
+		<string>a1</string>
+		<string>a2</string>
 		<string>agrave</string>
 		<string>aacute</string>
 		<string>acircumflex</string>
@@ -514,19 +550,23 @@
 		<string>i6</string>
 		<string>i7</string>
 		<string>i8</string>
+		<string>i9</string>
+		<string>i10</string>
 		<string>igrave</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
 		<string>j</string>
 		<string>j1</string>
-		<string>j2</string>
+		<string>j3</string>
 		<string>k</string>
 		<string>l</string>
 		<string>l1</string>
 		<string>l2</string>
 		<string>l3</string>
 		<string>l4</string>
+		<string>l5</string>
+		<string>l6</string>
 		<string>m</string>
 		<string>n</string>
 		<string>ntilde</string>
