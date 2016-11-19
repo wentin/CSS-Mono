@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_64.otf</string>
+	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_66.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -57,6 +57,8 @@
 			<integer>5</integer>
 			<key>name</key>
 			<string>overshoot baseline</string>
+			<key>showMeasurements</key>
+			<integer>1</integer>
 			<key>x</key>
 			<integer>0</integer>
 			<key>y</key>
@@ -202,6 +204,8 @@
 				<string>V1</string>
 				<string>V2</string>
 				<string>W</string>
+				<string>W1</string>
+				<string>W2</string>
 				<string>X</string>
 				<string>Y</string>
 				<string>Yacute</string>
@@ -499,6 +503,8 @@
 		<string>V1</string>
 		<string>V2</string>
 		<string>W</string>
+		<string>W1</string>
+		<string>W2</string>
 		<string>X</string>
 		<string>Y</string>
 		<string>Yacute</string>
