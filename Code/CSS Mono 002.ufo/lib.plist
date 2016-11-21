@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_66.otf</string>
+	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_73.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -110,6 +110,38 @@
 			<key>y</key>
 			<integer>0</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>descender</string>
+			<key>showMeasurements</key>
+			<integer>1</integer>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>-238</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>ascender</string>
+			<key>showMeasurements</key>
+			<integer>1</integer>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>738</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -162,11 +194,17 @@
 				<string>H1</string>
 				<string>H2</string>
 				<string>I</string>
+				<string>I1</string>
+				<string>I2</string>
+				<string>I3</string>
 				<string>Igrave</string>
 				<string>Iacute</string>
 				<string>Icircumflex</string>
 				<string>Idieresis</string>
 				<string>J</string>
+				<string>J1</string>
+				<string>J2</string>
+				<string>J3</string>
 				<string>K</string>
 				<string>L</string>
 				<string>L1</string>
@@ -192,6 +230,9 @@
 				<string>R1</string>
 				<string>R2</string>
 				<string>S</string>
+				<string>S1</string>
+				<string>S2</string>
+				<string>S3</string>
 				<string>T</string>
 				<string>T1</string>
 				<string>T2</string>
@@ -321,20 +362,38 @@
 				<string>circumflex</string>
 				<string>caron</string>
 				<string>zero</string>
+				<string>zero3</string>
+				<string>zero2</string>
+				<string>zero1</string>
 				<string>one</string>
-				<string>two</string>
+				<string>one1</string>
+				<string>one2</string>
+				<string>one3</string>
 				<string>three</string>
 				<string>four</string>
+				<string>four1</string>
+				<string>four2</string>
+				<string>four3</string>
 				<string>five</string>
+				<string>five1</string>
+				<string>five2</string>
+				<string>five3</string>
 				<string>six</string>
 				<string>seven</string>
+				<string>seven1</string>
+				<string>seven2</string>
+				<string>seven3</string>
+				<string>seven4</string>
 				<string>eight</string>
+				<string>eight1</string>
+				<string>eight2</string>
 				<string>nine</string>
 				<string>twosuperior</string>
 				<string>threesuperior</string>
 				<string>onesuperior</string>
 				<string>onequarter</string>
 				<string>onehalf</string>
+				<string>two</string>
 				<string>threequarters</string>
 				<string>underscore</string>
 				<string>hyphen</string>
@@ -461,11 +520,17 @@
 		<string>H1</string>
 		<string>H2</string>
 		<string>I</string>
+		<string>I1</string>
+		<string>I2</string>
+		<string>I3</string>
 		<string>Igrave</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
 		<string>J</string>
+		<string>J1</string>
+		<string>J2</string>
+		<string>J3</string>
 		<string>K</string>
 		<string>L</string>
 		<string>L1</string>
@@ -491,6 +556,9 @@
 		<string>R1</string>
 		<string>R2</string>
 		<string>S</string>
+		<string>S1</string>
+		<string>S2</string>
+		<string>S3</string>
 		<string>T</string>
 		<string>T1</string>
 		<string>T2</string>
@@ -620,20 +688,38 @@
 		<string>circumflex</string>
 		<string>caron</string>
 		<string>zero</string>
+		<string>zero3</string>
+		<string>zero2</string>
+		<string>zero1</string>
 		<string>one</string>
-		<string>two</string>
+		<string>one1</string>
+		<string>one2</string>
+		<string>one3</string>
 		<string>three</string>
 		<string>four</string>
+		<string>four1</string>
+		<string>four2</string>
+		<string>four3</string>
 		<string>five</string>
+		<string>five1</string>
+		<string>five2</string>
+		<string>five3</string>
 		<string>six</string>
 		<string>seven</string>
+		<string>seven1</string>
+		<string>seven2</string>
+		<string>seven3</string>
+		<string>seven4</string>
 		<string>eight</string>
+		<string>eight1</string>
+		<string>eight2</string>
 		<string>nine</string>
 		<string>twosuperior</string>
 		<string>threesuperior</string>
 		<string>onesuperior</string>
 		<string>onequarter</string>
 		<string>onehalf</string>
+		<string>two</string>
 		<string>threequarters</string>
 		<string>underscore</string>
 		<string>hyphen</string>

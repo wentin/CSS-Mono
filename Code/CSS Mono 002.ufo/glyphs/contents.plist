@@ -64,6 +64,20 @@
 	<string>H2_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
+	<key>I1</key>
+	<string>I1_.glif</string>
+	<key>I2</key>
+	<string>I2_.glif</string>
+	<key>I3</key>
+	<string>I3_.glif</string>
+	<key>J</key>
+	<string>J_.glif</string>
+	<key>J1</key>
+	<string>J1_.glif</string>
+	<key>J2</key>
+	<string>J2_.glif</string>
+	<key>J3</key>
+	<string>J3_.glif</string>
 	<key>K</key>
 	<string>K_.glif</string>
 	<key>L</key>
@@ -100,6 +114,14 @@
 	<string>R1_.glif</string>
 	<key>R2</key>
 	<string>R2_.glif</string>
+	<key>S</key>
+	<string>S_.glif</string>
+	<key>S1</key>
+	<string>S1_.glif</string>
+	<key>S2</key>
+	<string>S2_.glif</string>
+	<key>S3</key>
+	<string>S3_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>T1</key>
@@ -162,10 +184,30 @@
 	<string>d.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>eight</key>
+	<string>eight.glif</string>
+	<key>eight2</key>
+	<string>eight2.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>five</key>
+	<string>five.glif</string>
+	<key>five1</key>
+	<string>five1.glif</string>
+	<key>five2</key>
+	<string>five2.glif</string>
+	<key>five3</key>
+	<string>five3.glif</string>
+	<key>four</key>
+	<string>four.glif</string>
+	<key>four1</key>
+	<string>four1.glif</string>
+	<key>four2</key>
+	<string>four2.glif</string>
+	<key>four3</key>
+	<string>four3.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g1</key>
@@ -264,6 +306,8 @@
 	<string>m3.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>nine</key>
+	<string>nine.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
 	<key>o</key>
@@ -274,6 +318,12 @@
 	<string>o2.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>one1</key>
+	<string>one1.glif</string>
+	<key>one2</key>
+	<string>one2.glif</string>
+	<key>one3</key>
+	<string>one3.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
 	<key>parenleft</key>
@@ -310,6 +360,18 @@
 	<string>s4.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
+	<key>seven</key>
+	<string>seven.glif</string>
+	<key>seven1</key>
+	<string>seven1.glif</string>
+	<key>seven2</key>
+	<string>seven2.glif</string>
+	<key>seven3</key>
+	<string>seven3.glif</string>
+	<key>seven4</key>
+	<string>seven4.glif</string>
+	<key>six</key>
+	<string>six.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>space</key>
@@ -352,5 +414,13 @@
 	<string>ydieresis.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
+	<key>zero</key>
+	<string>zero.glif</string>
+	<key>zero1</key>
+	<string>zero1.glif</string>
+	<key>zero2</key>
+	<string>zero2.glif</string>
+	<key>zero3</key>
+	<string>zero3.glif</string>
 </dict>
 </plist>
