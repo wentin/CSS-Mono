@@ -14,87 +14,36 @@
       <point x="356" y="66"/>
       <point x="330" y="45"/>
       <point x="287" y="37" type="curve"/>
-      <point x="155" y="37" type="line" smooth="yes"/>
-      <point x="126" y="37"/>
-      <point x="125" y="0"/>
-      <point x="125" y="0" type="curve" smooth="yes"/>
+      <point x="125" y="37" type="line" smooth="yes"/>
+      <point x="125" y="0" type="line" smooth="yes"/>
       <point x="356" y="0" type="line" smooth="yes"/>
     </contour>
     <contour>
       <point x="675" y="0" type="line" smooth="yes"/>
-      <point x="675" y="0"/>
-      <point x="674" y="37"/>
-      <point x="645" y="37" type="curve" smooth="yes"/>
+      <point x="675" y="37" type="line" smooth="yes"/>
       <point x="513" y="37" type="line"/>
       <point x="470" y="45"/>
       <point x="444" y="66"/>
       <point x="444" y="95" type="curve"/>
-      <point x="444" y="0" type="line" smooth="yes"/>
+      <point x="444" y="0" type="line"/>
     </contour>
     <contour>
       <point x="356" y="565" type="curve"/>
       <point x="356" y="660" type="line" smooth="yes"/>
       <point x="125" y="660" type="line" smooth="yes"/>
-      <point x="125" y="660"/>
-      <point x="126" y="623"/>
-      <point x="155" y="623" type="curve" smooth="yes"/>
+      <point x="125" y="623" type="line" smooth="yes"/>
       <point x="287" y="623" type="line"/>
       <point x="330" y="615"/>
       <point x="356" y="594"/>
     </contour>
     <contour>
-      <point x="675" y="660" type="curve" smooth="yes"/>
+      <point x="675" y="660" type="line" smooth="yes"/>
       <point x="444" y="660" type="line" smooth="yes"/>
       <point x="444" y="565" type="line"/>
       <point x="444" y="594"/>
       <point x="470" y="615"/>
       <point x="513" y="623" type="curve"/>
-      <point x="645" y="623" type="line" smooth="yes"/>
-      <point x="674" y="623"/>
-      <point x="675" y="660"/>
+      <point x="675" y="623" type="line" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-            <key>com.typemytype.robofont.image</key>
-            <dict>
-              <key>path</key>
-              <string>/var/folders/2d/c985rjw53gj6y1441jb20k9h0000gn/T/com.evernote.Evernote/com.evernote.Evernote/WebKitDnD.a5cCMo/Scannable Document on Nov 20- 2016- 7_12_06 PM.png</string>
-              <key>transform</key>
-              <array>
-                <real>0.3150761837952274</real>
-                <real>0.0</real>
-                <real>0.0</real>
-                <real>0.3150761837952275</real>
-                <real>116.35823277992526</real>
-                <real>-65.12191042408726</real>
-              </array>
-            </dict>
-          </dict>
-          <key>name</key>
-          <string>I</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>800</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

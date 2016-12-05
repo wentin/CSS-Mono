@@ -70,6 +70,18 @@
 	<string>I2_.glif</string>
 	<key>I3</key>
 	<string>I3_.glif</string>
+	<key>I4</key>
+	<string>I4_.glif</string>
+	<key>I5</key>
+	<string>I5_.glif</string>
+	<key>I6</key>
+	<string>I6_.glif</string>
+	<key>I7</key>
+	<string>I7_.glif</string>
+	<key>I8</key>
+	<string>I8_.glif</string>
+	<key>I9</key>
+	<string>I9_.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
 	<key>J1</key>
@@ -154,14 +166,38 @@
 	<string>a1.glif</string>
 	<key>a2</key>
 	<string>a2.glif</string>
+	<key>ampersand</key>
+	<string>ampersand.glif</string>
+	<key>ampersand1</key>
+	<string>ampersand1.glif</string>
+	<key>ampersand2</key>
+	<string>ampersand2.glif</string>
+	<key>ampersand3</key>
+	<string>ampersand3.glif</string>
+	<key>ampersand4</key>
+	<string>ampersand4.glif</string>
+	<key>ampersand5</key>
+	<string>ampersand5.glif</string>
+	<key>ampersand6</key>
+	<string>ampersand6.glif</string>
 	<key>arrow-right</key>
 	<string>arrow-right.glif</string>
+	<key>asciicircum</key>
+	<string>asciicircum.glif</string>
+	<key>asciitilde</key>
+	<string>asciitilde.glif</string>
 	<key>asterisk</key>
 	<string>asterisk.glif</string>
 	<key>asterisk2</key>
 	<string>asterisk2.glif</string>
+	<key>at</key>
+	<string>at.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
+	<key>backslash</key>
+	<string>backslash.glif</string>
+	<key>bar</key>
+	<string>bar.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -182,14 +218,22 @@
 	<string>comma.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>dollar</key>
+	<string>dollar.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>eight1</key>
+	<string>eight1.glif</string>
 	<key>eight2</key>
 	<string>eight2.glif</string>
+	<key>endash</key>
+	<string>endash.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>exclam</key>
+	<string>exclam.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>five</key>
@@ -214,6 +258,8 @@
 	<string>g1.glif</string>
 	<key>g2</key>
 	<string>g2.glif</string>
+	<key>grave</key>
+	<string>grave.glif</string>
 	<key>great3</key>
 	<string>great3.glif</string>
 	<key>greater</key>
@@ -240,6 +286,12 @@
 	<string>i1.glif</string>
 	<key>i10</key>
 	<string>i10.glif</string>
+	<key>i11</key>
+	<string>i11.glif</string>
+	<key>i12</key>
+	<string>i12.glif</string>
+	<key>i13</key>
+	<string>i13.glif</string>
 	<key>i2</key>
 	<string>i2.glif</string>
 	<key>i3</key>
@@ -270,6 +322,8 @@
 	<string>l.glif</string>
 	<key>l1</key>
 	<string>l1.glif</string>
+	<key>l10</key>
+	<string>l10.glif</string>
 	<key>l2</key>
 	<string>l2.glif</string>
 	<key>l3</key>
@@ -278,6 +332,14 @@
 	<string>l4.glif</string>
 	<key>l5</key>
 	<string>l5.glif</string>
+	<key>l6</key>
+	<string>l6.glif</string>
+	<key>l7</key>
+	<string>l7.glif</string>
+	<key>l8</key>
+	<string>l8.glif</string>
+	<key>l9</key>
+	<string>l9.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
 	<key>less1</key>
@@ -308,8 +370,22 @@
 	<string>n.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>notequal</key>
+	<string>notequal.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
+	<key>numero</key>
+	<string>numero.glif</string>
+	<key>numero1</key>
+	<string>numero1.glif</string>
+	<key>numero2</key>
+	<string>numero2.glif</string>
+	<key>numero3</key>
+	<string>numero3.glif</string>
+	<key>numero4</key>
+	<string>numero4.glif</string>
+	<key>numero5</key>
+	<string>numero5.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>o1</key>
@@ -332,14 +408,28 @@
 	<string>parenright.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
+	<key>percent1</key>
+	<string>percent1.glif</string>
+	<key>percent2</key>
+	<string>percent2.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
+	<key>plus</key>
+	<string>plus.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
+	<key>question</key>
+	<string>question.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
+	<key>quotedblleft</key>
+	<string>quotedblleft.glif</string>
+	<key>quotedblright</key>
+	<string>quotedblright.glif</string>
 	<key>quoteleft</key>
 	<string>quoteleft.glif</string>
+	<key>quoteright</key>
+	<string>quoteright.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
 	<key>r</key>

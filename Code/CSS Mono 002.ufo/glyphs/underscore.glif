@@ -4,10 +4,10 @@
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="647" y="-121" type="line"/>
-      <point x="153" y="-121" type="line"/>
-      <point x="153" y="-49" type="line"/>
-      <point x="647" y="-49" type="line"/>
+      <point x="700" y="-131" type="line" smooth="yes"/>
+      <point x="100" y="-131" type="line" smooth="yes"/>
+      <point x="100" y="-59" type="line" smooth="yes"/>
+      <point x="700" y="-59" type="line" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

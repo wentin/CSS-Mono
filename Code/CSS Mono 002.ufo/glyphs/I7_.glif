@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I7" format="1">
+  <advance width="800"/>
+  <outline>
+    <contour>
+      <point x="356" y="660" type="line" smooth="yes"/>
+      <point x="356" y="0" type="line" smooth="yes"/>
+      <point x="444" y="0" type="line" smooth="yes"/>
+      <point x="444" y="660" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="694" y="593" type="curve"/>
+      <point x="694" y="660" type="line" smooth="yes"/>
+      <point x="106" y="660" type="line" smooth="yes"/>
+      <point x="106" y="593" type="line"/>
+      <point x="184" y="623"/>
+      <point x="276" y="623"/>
+      <point x="356" y="623" type="curve" smooth="yes"/>
+      <point x="444" y="623" type="line" smooth="yes"/>
+      <point x="524" y="623"/>
+      <point x="616" y="623"/>
+    </contour>
+    <contour>
+      <point x="694" y="67" type="line"/>
+      <point x="616" y="37"/>
+      <point x="524" y="37"/>
+      <point x="444" y="37" type="curve" smooth="yes"/>
+      <point x="356" y="37" type="line" smooth="yes"/>
+      <point x="276" y="37"/>
+      <point x="184" y="37"/>
+      <point x="106" y="67" type="curve"/>
+      <point x="106" y="0" type="line" smooth="yes"/>
+      <point x="694" y="0" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

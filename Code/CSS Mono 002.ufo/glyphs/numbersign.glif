@@ -4,28 +4,28 @@
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="723" y="403" type="line"/>
-      <point x="723" y="438" type="line"/>
-      <point x="136" y="438" type="line"/>
-      <point x="136" y="403" type="line"/>
+      <point x="150" y="0" type="line" smooth="yes"/>
+      <point x="236" y="0" type="line" smooth="yes"/>
+      <point x="415" y="660" type="line" smooth="yes"/>
+      <point x="329" y="660" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="671" y="184" type="line"/>
-      <point x="671" y="218" type="line"/>
-      <point x="84" y="218" type="line"/>
-      <point x="84" y="184" type="line"/>
+      <point x="386" y="0" type="line" smooth="yes"/>
+      <point x="471" y="0" type="line" smooth="yes"/>
+      <point x="650" y="660" type="line" smooth="yes"/>
+      <point x="565" y="660" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="154" y="0" type="line"/>
-      <point x="236" y="0" type="line"/>
-      <point x="415" y="622" type="line"/>
-      <point x="333" y="622" type="line"/>
+      <point x="662" y="201" type="line" smooth="yes"/>
+      <point x="662" y="238" type="line" smooth="yes"/>
+      <point x="76" y="238" type="line" smooth="yes"/>
+      <point x="76" y="201" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="384" y="0" type="line"/>
-      <point x="466" y="0" type="line"/>
-      <point x="645" y="622" type="line"/>
-      <point x="563" y="622" type="line"/>
+      <point x="723" y="422" type="line" smooth="yes"/>
+      <point x="723" y="459" type="line" smooth="yes"/>
+      <point x="137" y="459" type="line" smooth="yes"/>
+      <point x="137" y="422" type="line" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_73.otf</string>
+	<string>/Users/wenzhang/Dropbox/TypeDesign/Design/CSS Mono/Export/CSS Mono_83.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -43,10 +43,12 @@
 			<integer>5</integer>
 			<key>name</key>
 			<string>overshoot x height</string>
+			<key>showMeasurements</key>
+			<integer>1</integer>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>686</integer>
 			<key>y</key>
-			<integer>512</integer>
+			<integer>511</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -142,6 +144,38 @@
 			<key>y</key>
 			<integer>738</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>quote hang</string>
+			<key>showMeasurements</key>
+			<integer>1</integer>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>692</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>punctuation botton</string>
+			<key>showMeasurements</key>
+			<integer>1</integer>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>-192</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -197,6 +231,12 @@
 				<string>I1</string>
 				<string>I2</string>
 				<string>I3</string>
+				<string>I4</string>
+				<string>I5</string>
+				<string>I6</string>
+				<string>I7</string>
+				<string>I8</string>
+				<string>I9</string>
 				<string>Igrave</string>
 				<string>Iacute</string>
 				<string>Icircumflex</string>
@@ -291,6 +331,9 @@
 				<string>i8</string>
 				<string>i9</string>
 				<string>i10</string>
+				<string>i11</string>
+				<string>i13</string>
+				<string>i12</string>
 				<string>igrave</string>
 				<string>iacute</string>
 				<string>icircumflex</string>
@@ -306,6 +349,10 @@
 				<string>l4</string>
 				<string>l5</string>
 				<string>l6</string>
+				<string>l7</string>
+				<string>l8</string>
+				<string>l9</string>
+				<string>l10</string>
 				<string>m</string>
 				<string>m1</string>
 				<string>m3</string>
@@ -362,9 +409,9 @@
 				<string>circumflex</string>
 				<string>caron</string>
 				<string>zero</string>
-				<string>zero3</string>
-				<string>zero2</string>
 				<string>zero1</string>
+				<string>zero2</string>
+				<string>zero3</string>
 				<string>one</string>
 				<string>one1</string>
 				<string>one2</string>
@@ -411,7 +458,15 @@
 				<string>quotedbl</string>
 				<string>numbersign</string>
 				<string>percent</string>
+				<string>percent1</string>
+				<string>percent2</string>
 				<string>ampersand</string>
+				<string>ampersand1</string>
+				<string>ampersand3</string>
+				<string>ampersand2</string>
+				<string>ampersand5</string>
+				<string>ampersand4</string>
+				<string>ampersand6</string>
 				<string>quotesingle</string>
 				<string>asterisk</string>
 				<string>asterisk2</string>
@@ -477,6 +532,18 @@
 				<string>paragraph</string>
 				<string>space</string>
 				<string>arrow-right</string>
+				<string>quotedblright</string>
+				<string>quotedblleft</string>
+				<string>percent2.add_1</string>
+				<string>percent1.add_1</string>
+				<string>notequal</string>
+				<string>endash</string>
+				<string>numero</string>
+				<string>numero1</string>
+				<string>numero2</string>
+				<string>numero3</string>
+				<string>numero4</string>
+				<string>numero5</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -523,6 +590,12 @@
 		<string>I1</string>
 		<string>I2</string>
 		<string>I3</string>
+		<string>I4</string>
+		<string>I5</string>
+		<string>I6</string>
+		<string>I7</string>
+		<string>I8</string>
+		<string>I9</string>
 		<string>Igrave</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
@@ -617,6 +690,9 @@
 		<string>i8</string>
 		<string>i9</string>
 		<string>i10</string>
+		<string>i11</string>
+		<string>i13</string>
+		<string>i12</string>
 		<string>igrave</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
@@ -632,6 +708,10 @@
 		<string>l4</string>
 		<string>l5</string>
 		<string>l6</string>
+		<string>l7</string>
+		<string>l8</string>
+		<string>l9</string>
+		<string>l10</string>
 		<string>m</string>
 		<string>m1</string>
 		<string>m3</string>
@@ -688,9 +768,9 @@
 		<string>circumflex</string>
 		<string>caron</string>
 		<string>zero</string>
-		<string>zero3</string>
-		<string>zero2</string>
 		<string>zero1</string>
+		<string>zero2</string>
+		<string>zero3</string>
 		<string>one</string>
 		<string>one1</string>
 		<string>one2</string>
@@ -737,7 +817,15 @@
 		<string>quotedbl</string>
 		<string>numbersign</string>
 		<string>percent</string>
+		<string>percent1</string>
+		<string>percent2</string>
 		<string>ampersand</string>
+		<string>ampersand1</string>
+		<string>ampersand3</string>
+		<string>ampersand2</string>
+		<string>ampersand5</string>
+		<string>ampersand4</string>
+		<string>ampersand6</string>
 		<string>quotesingle</string>
 		<string>asterisk</string>
 		<string>asterisk2</string>
@@ -803,6 +891,18 @@
 		<string>paragraph</string>
 		<string>space</string>
 		<string>arrow-right</string>
+		<string>quotedblright</string>
+		<string>quotedblleft</string>
+		<string>percent2.add_1</string>
+		<string>percent1.add_1</string>
+		<string>notequal</string>
+		<string>endash</string>
+		<string>numero</string>
+		<string>numero1</string>
+		<string>numero2</string>
+		<string>numero3</string>
+		<string>numero4</string>
+		<string>numero5</string>
 	</array>
 </dict>
 </plist>

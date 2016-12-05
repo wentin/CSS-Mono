@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
-	<string>Ex Machina</string>
+	<string>CSS Mono</string>
 	<key>openTypeHheaAscender</key>
 	<integer>870</integer>
 	<key>openTypeHheaDescender</key>
@@ -34,12 +34,10 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
-	<key>styleMapFamilyName</key>
-	<string>CSS Mono</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string></string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>xHeight</key>

@@ -4,22 +4,22 @@
   <unicode hex="005D"/>
   <outline>
     <contour>
-      <point x="530" y="-164" type="line"/>
-      <point x="166" y="-164" type="line"/>
-      <point x="166" y="-130" type="line"/>
-      <point x="530" y="-130" type="line"/>
+      <point x="555" y="-192" type="line" smooth="yes"/>
+      <point x="180" y="-192" type="line" smooth="yes"/>
+      <point x="180" y="-155" type="line" smooth="yes"/>
+      <point x="555" y="-155" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="530" y="716" type="line"/>
-      <point x="166" y="716" type="line"/>
-      <point x="166" y="750" type="line"/>
-      <point x="530" y="750" type="line"/>
+      <point x="555" y="655" type="line" smooth="yes"/>
+      <point x="180" y="655" type="line" smooth="yes"/>
+      <point x="180" y="692" type="line" smooth="yes"/>
+      <point x="555" y="692" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="453" y="-164" type="line"/>
-      <point x="453" y="750" type="line"/>
-      <point x="541" y="750" type="line"/>
-      <point x="541" y="-164" type="line"/>
+      <point x="467" y="-192" type="line" smooth="yes"/>
+      <point x="467" y="692" type="line" smooth="yes"/>
+      <point x="555" y="692" type="line" smooth="yes"/>
+      <point x="555" y="-192" type="line" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
