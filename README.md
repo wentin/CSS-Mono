@@ -18,17 +18,17 @@ CSS Mono is a typeface designed and optimized specifically to be used to write a
 ## Use the font in code editors
 install the font in your computer, and specify font name in your code editor to be `CSS Mono`
 
-### Sublime Text 
+##### Sublime Text 
 * [Sublime Text Guide](https://www.sublimetext.com/docs/3/font.html)
 * `Preferences ▶ Settings`
 * `"font_face": "CSS Mono"`
 
-### Atom
+##### Atom
 * [Atom Guide](https://discuss.atom.io/t/how-do-i-install-fonts-in-atom/15490)
 * `Preferences ▶ Editor Settings ▶ Font Family`
 * `CSS Mono`
 
-### Visual Studio Code
+##### Visual Studio Code
 * [Visual Studio Code Guide](https://code.visualstudio.com/docs/getstarted/settings)
 * `Preferences ▶ Settings ▶ User Settings`
 * `"editor.fontFamily": "CSS Mono"`
