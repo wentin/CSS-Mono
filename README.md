@@ -16,7 +16,7 @@ CSS Mono is a typeface designed and optimized specifically to be used to write a
 👉🏿 [Download CSS Mono Italic](https://github.com/wentin/CSS-Mono/raw/master/build/CSS%20Mono%20italic.otf)
 
 ## Use the font in code editors
-font name should be refered to as `CSS Mono`
+install the font in your computer, and specify font name in your code editor to be `CSS Mono`
 
 ### Sublime Text 
 * [Sublime Text Guide](https://www.sublimetext.com/docs/3/font.html)
