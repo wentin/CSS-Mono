@@ -2,10 +2,10 @@
 
 CSS Mono is a typeface designed and optimized specifically to be used to write and read CSS code.
 
-## What does it look like?
+## Design
 
-Preview Images as of Nov 03, 2017
-<img width="762" alt="screen shot 2017-11-02 at 11 22 44 pm" src="https://user-images.githubusercontent.com/2474904/32379286-7bfa7334-c083-11e7-9aca-152a7e957951.png">
+>Preview Images as of Nov 03, 2017
+><img width="762" alt="screen shot 2017-11-02 at 11 22 44 pm" src="https://user-images.githubusercontent.com/2474904/32379286-7bfa7334-c083-11e7-9aca-152a7e957951.png">
 
 ## Download the latest version
 
