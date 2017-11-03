@@ -19,16 +19,16 @@ CSS Mono is a typeface designed and optimized specifically to be used to write a
 font name should be refered to as `CSS Mono`
 
 ### Sublime Text 
-* [Guide](https://www.sublimetext.com/docs/3/font.html)
+* [Sublime Text Guide](https://www.sublimetext.com/docs/3/font.html)
 * `Preferences ▶ Settings`
 * `"font_face": "CSS Mono"`
 
 ### Atom
-* [Guide](https://discuss.atom.io/t/how-do-i-install-fonts-in-atom/15490)
+* [Atom Guide](https://discuss.atom.io/t/how-do-i-install-fonts-in-atom/15490)
 * `Preferences ▶ Editor Settings ▶ Font Family`
 * `CSS Mono`
 
-### VS Code
-* [Guide](https://code.visualstudio.com/docs/getstarted/settings)
+### Visual Studio Code
+* [Visual Studio Code Guide](https://code.visualstudio.com/docs/getstarted/settings)
 * `Preferences ▶ Settings ▶ User Settings`
 * `"editor.fontFamily": "CSS Mono"`
