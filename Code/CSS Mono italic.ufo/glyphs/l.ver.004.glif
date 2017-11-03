@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.ver.004" format="1">
+  <advance width="800"/>
+  <outline>
+    <contour>
+      <point x="265" y="118" type="curve" smooth="yes"/>
+      <point x="410" y="631" type="line" smooth="yes"/>
+      <point x="429" y="700"/>
+      <point x="499" y="750"/>
+      <point x="576" y="750" type="curve" smooth="yes"/>
+      <point x="629" y="750"/>
+      <point x="672" y="716"/>
+      <point x="672" y="673" type="curve" smooth="yes"/>
+      <point x="673" y="540"/>
+      <point x="198" y="303"/>
+      <point x="198" y="303" type="curve"/>
+      <point x="177" y="331" type="line"/>
+      <point x="177" y="331"/>
+      <point x="627" y="547"/>
+      <point x="629" y="680" type="curve" smooth="yes"/>
+      <point x="629" y="704"/>
+      <point x="612" y="723"/>
+      <point x="590" y="723" type="curve" smooth="yes"/>
+      <point x="555" y="723"/>
+      <point x="516" y="686"/>
+      <point x="503" y="641" type="curve" smooth="yes"/>
+      <point x="355" y="118" type="line" smooth="yes"/>
+      <point x="343" y="76"/>
+      <point x="373" y="39"/>
+      <point x="412" y="39" type="curve" smooth="yes"/>
+      <point x="498" y="39"/>
+      <point x="580" y="103"/>
+      <point x="646" y="194" type="curve"/>
+      <point x="678" y="177" type="line"/>
+      <point x="604" y="67"/>
+      <point x="502" y="-12"/>
+      <point x="379" y="-12" type="curve" smooth="yes"/>
+      <point x="304" y="-12"/>
+      <point x="247" y="53"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/wenzhang/Dropbox (Personal)/TypeDesign/Design/2016 fall/CSS Mono/Images/italic/lpq - CSS Mono Italic 3.jpg</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>1.014038726988466</real>
+                <real>-0.008452579755546238</real>
+                <real>0.008452579755546237</real>
+                <real>1.014038726988466</real>
+                <real>149.2920833666275</real>
+                <real>-234.71091317580726</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>l.ver.004</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>800</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

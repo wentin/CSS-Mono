@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p" format="1">
+  <advance width="800"/>
+  <unicode hex="0070"/>
+  <outline>
+    <contour>
+      <point x="366" y="390" type="curve"/>
+      <point x="356" y="315" type="line"/>
+      <point x="394" y="394"/>
+      <point x="479" y="459"/>
+      <point x="545" y="459" type="curve" smooth="yes"/>
+      <point x="614" y="459"/>
+      <point x="670" y="389"/>
+      <point x="670" y="303" type="curve" smooth="yes"/>
+      <point x="670" y="167"/>
+      <point x="555" y="32"/>
+      <point x="438" y="32" type="curve" smooth="yes"/>
+      <point x="382" y="32"/>
+      <point x="323" y="71"/>
+      <point x="302" y="119" type="curve"/>
+      <point x="273" y="48" type="line"/>
+      <point x="301" y="12"/>
+      <point x="373" y="-12"/>
+      <point x="434" y="-12" type="curve" smooth="yes"/>
+      <point x="596" y="-12"/>
+      <point x="776" y="166"/>
+      <point x="776" y="326" type="curve" smooth="yes"/>
+      <point x="776" y="439"/>
+      <point x="698" y="512"/>
+      <point x="579" y="512" type="curve" smooth="yes"/>
+      <point x="511" y="512"/>
+      <point x="414" y="457"/>
+    </contour>
+    <contour>
+      <point x="296" y="398" type="curve" smooth="yes"/>
+      <point x="146" y="-162" type="line" smooth="yes"/>
+      <point x="138" y="-191"/>
+      <point x="106" y="-212"/>
+      <point x="61" y="-220" type="curve"/>
+      <point x="57" y="-238" type="line" smooth="yes"/>
+      <point x="287" y="-238" type="line" smooth="yes"/>
+      <point x="291" y="-220" type="line"/>
+      <point x="250" y="-212"/>
+      <point x="228" y="-191"/>
+      <point x="236" y="-162" type="curve" smooth="yes"/>
+      <point x="386" y="398" type="line" smooth="yes"/>
+      <point x="403" y="460"/>
+      <point x="371" y="511"/>
+      <point x="336" y="511" type="curve" smooth="yes"/>
+      <point x="279" y="511"/>
+      <point x="214" y="444"/>
+      <point x="163" y="363" type="curve"/>
+      <point x="187" y="346" type="line"/>
+      <point x="226.71802997877847" y="404.0494284305224"/>
+      <point x="255" y="445"/>
+      <point x="285" y="445" type="curve" smooth="yes"/>
+      <point x="298" y="445"/>
+      <point x="303" y="424"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/wenzhang/Dropbox (Personal)/TypeDesign/Design/2016 fall/CSS Mono/Images/italic/lpq - CSS Mono Italic 3.jpg</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>1.0293435920589655</real>
+                <real>-0.00858015436311617</real>
+                <real>0.008580154363116169</real>
+                <real>1.0293435920589653</real>
+                <real>-662.707916633373</real>
+                <real>-246.6637663496847</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>p</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>800</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

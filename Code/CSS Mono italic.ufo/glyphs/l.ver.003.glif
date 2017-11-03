@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.ver.003" format="1">
+  <advance width="800"/>
+  <note>
+    Version created Thu Nov  2 18:29:48 2017
+  </note>
+  <outline>
+    <contour>
+      <point x="251" y="158" type="curve" smooth="yes"/>
+      <point x="284" y="316"/>
+      <point x="323" y="473"/>
+      <point x="369" y="599" type="curve" smooth="yes"/>
+      <point x="402" y="690"/>
+      <point x="483" y="750"/>
+      <point x="540" y="750" type="curve" smooth="yes"/>
+      <point x="621" y="750"/>
+      <point x="663" y="687"/>
+      <point x="663" y="603" type="curve" smooth="yes"/>
+      <point x="663" y="396"/>
+      <point x="472" y="200"/>
+      <point x="171" y="62" type="curve"/>
+      <point x="160" y="93" type="line"/>
+      <point x="441" y="247"/>
+      <point x="606" y="416"/>
+      <point x="606" y="587" type="curve" smooth="yes"/>
+      <point x="606" y="655"/>
+      <point x="585" y="708"/>
+      <point x="542" y="708" type="curve" smooth="yes"/>
+      <point x="509" y="708"/>
+      <point x="487" y="675"/>
+      <point x="470" y="627" type="curve" smooth="yes"/>
+      <point x="414" y="472"/>
+      <point x="365" y="304"/>
+      <point x="341" y="129" type="curve" smooth="yes"/>
+      <point x="335" y="85"/>
+      <point x="379" y="46"/>
+      <point x="424" y="46" type="curve" smooth="yes"/>
+      <point x="481" y="46"/>
+      <point x="529" y="94"/>
+      <point x="574" y="160" type="curve"/>
+      <point x="606" y="143" type="line"/>
+      <point x="547" y="53"/>
+      <point x="473" y="-12"/>
+      <point x="383" y="-12" type="curve" smooth="yes"/>
+      <point x="296" y="-12"/>
+      <point x="233" y="74"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>path</key>
+              <string>/Users/wenzhang/Dropbox (Personal)/TypeDesign/Design/2016 fall/CSS Mono/Images/italic/lpq - CSS Mono Italic 3.jpg</string>
+              <key>transform</key>
+              <array>
+                <real>1.014038726988466</real>
+                <real>-0.008452579755546238</real>
+                <real>0.008452579755546237</real>
+                <real>1.014038726988466</real>
+                <real>149.2920833666275</real>
+                <real>-234.71091317580726</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>l.ver.003</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>800</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

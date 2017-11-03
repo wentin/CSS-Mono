@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="800"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="620" y="437" type="line" smooth="yes"/>
+      <point x="633" y="485" type="line" smooth="yes"/>
+      <point x="260" y="485" type="line" smooth="yes"/>
+      <point x="247" y="437" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="287" y="178" type="line" smooth="yes"/>
+      <point x="255" y="68"/>
+      <point x="316" y="-12"/>
+      <point x="428" y="-12" type="curve" smooth="yes"/>
+      <point x="534" y="-12"/>
+      <point x="669" y="104"/>
+      <point x="735" y="251" type="curve"/>
+      <point x="698" y="263" type="line"/>
+      <point x="630" y="145"/>
+      <point x="530" y="54"/>
+      <point x="463" y="54" type="curve" smooth="yes"/>
+      <point x="398" y="54"/>
+      <point x="360" y="116"/>
+      <point x="382" y="190" type="curve" smooth="yes"/>
+      <point x="520" y="660" type="line"/>
+      <point x="428" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/wenzhang/Dropbox (Personal)/TypeDesign/Design/2016 fall/CSS Mono/Images/italic/rst - CSS Mono Italic.jpg</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>1.0324508101796</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>1.0324508101796</real>
+                <real>-1923.3540954980658</real>
+                <real>-250.29300010325184</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>t</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>800</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

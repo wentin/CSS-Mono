@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="800"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="683" y="511" type="curve" smooth="yes"/>
+      <point x="599" y="511"/>
+      <point x="468" y="411"/>
+      <point x="397" y="334" type="curve"/>
+      <point x="384" y="248" type="line"/>
+      <point x="436" y="342"/>
+      <point x="555" y="439"/>
+      <point x="618" y="439" type="curve" smooth="yes"/>
+      <point x="661" y="439"/>
+      <point x="689" y="410"/>
+      <point x="679" y="375" type="curve" smooth="yes"/>
+      <point x="670" y="345"/>
+      <point x="693" y="321"/>
+      <point x="730" y="321" type="curve" smooth="yes"/>
+      <point x="760" y="321"/>
+      <point x="799" y="343"/>
+      <point x="800" y="401" type="curve" smooth="yes"/>
+      <point x="801" y="462"/>
+      <point x="749" y="511"/>
+    </contour>
+    <contour>
+      <point x="352" y="398" type="curve" smooth="yes"/>
+      <point x="269" y="74" type="line" smooth="yes"/>
+      <point x="262" y="45"/>
+      <point x="229" y="24"/>
+      <point x="184" y="16" type="curve"/>
+      <point x="180" y="-2" type="line" smooth="yes"/>
+      <point x="410" y="-2" type="line" smooth="yes"/>
+      <point x="414" y="16" type="line"/>
+      <point x="373" y="24"/>
+      <point x="352" y="45"/>
+      <point x="359" y="74" type="curve" smooth="yes"/>
+      <point x="442" y="398" type="line" smooth="yes"/>
+      <point x="458" y="461"/>
+      <point x="442" y="511"/>
+      <point x="385" y="511" type="curve" smooth="yes"/>
+      <point x="325" y="511"/>
+      <point x="278" y="490"/>
+      <point x="219" y="374" type="curve"/>
+      <point x="243" y="357" type="line"/>
+      <point x="277" y="416"/>
+      <point x="309" y="462"/>
+      <point x="339" y="462" type="curve" smooth="yes"/>
+      <point x="357" y="462"/>
+      <point x="359" y="424"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>path</key>
+              <string>/Users/wenzhang/Dropbox (Personal)/TypeDesign/Design/2016 fall/CSS Mono/Images/italic/rst - CSS Mono Italic.jpg</string>
+              <key>transform</key>
+              <array>
+                <real>1.0324508101796</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>1.0324508101796</real>
+                <real>-268.35409549806576</real>
+                <real>-250.29300010325184</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>r</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>800</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

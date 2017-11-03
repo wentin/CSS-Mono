@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright" format="1">
+  <advance width="800"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="555" y="-192" type="line" smooth="yes"/>
+      <point x="180" y="-192" type="line" smooth="yes"/>
+      <point x="180" y="-155" type="line" smooth="yes"/>
+      <point x="555" y="-155" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="555" y="655" type="line" smooth="yes"/>
+      <point x="180" y="655" type="line" smooth="yes"/>
+      <point x="180" y="692" type="line" smooth="yes"/>
+      <point x="555" y="692" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="467" y="-192" type="line" smooth="yes"/>
+      <point x="467" y="692" type="line" smooth="yes"/>
+      <point x="555" y="692" type="line" smooth="yes"/>
+      <point x="555" y="-192" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

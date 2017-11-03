@@ -3,13 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>800</integer>
-	<key>capHeight</key>
 	<integer>750</integer>
+	<key>capHeight</key>
+	<integer>660</integer>
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
 	<string>CSS Mono</string>
+	<key>openTypeHheaAscender</key>
+	<integer>870</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-330</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
@@ -28,10 +34,12 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string></string>
 	<key>unitsPerEm</key>
-	<integer>1050</integer>
+	<integer>1000</integer>
 	<key>xHeight</key>
 	<integer>500</integer>
 </dict>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="800"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="442" y="-1" type="move" smooth="yes"/>
+      <point x="554" y="398" type="line" smooth="yes"/>
+      <point x="572" y="461"/>
+      <point x="535" y="512"/>
+      <point x="473" y="512" type="curve" smooth="yes"/>
+      <point x="420" y="512"/>
+      <point x="334" y="440"/>
+      <point x="282" y="352" type="curve"/>
+      <point x="272" y="296" type="line"/>
+      <point x="324" y="377"/>
+      <point x="404" y="456"/>
+      <point x="444" y="456" type="curve" smooth="yes"/>
+      <point x="469" y="456"/>
+      <point x="475" y="428"/>
+      <point x="465" y="393" type="curve" smooth="yes"/>
+      <point x="354" y="-1" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="611" y="78" type="line" smooth="yes"/>
+      <point x="597" y="29"/>
+      <point x="623" y="-12"/>
+      <point x="669" y="-12" type="curve" smooth="yes"/>
+      <point x="744" y="-12"/>
+      <point x="804" y="31"/>
+      <point x="826" y="114" type="curve"/>
+      <point x="798" y="120" type="line"/>
+      <point x="784" y="72"/>
+      <point x="742" y="33"/>
+      <point x="712" y="33" type="curve" smooth="yes"/>
+      <point x="700" y="33"/>
+      <point x="692" y="53"/>
+      <point x="698" y="76" type="curve" smooth="yes"/>
+      <point x="788" y="396" type="line" smooth="yes"/>
+      <point x="806" y="459"/>
+      <point x="769" y="510"/>
+      <point x="707" y="510" type="curve" smooth="yes"/>
+      <point x="654" y="510"/>
+      <point x="568" y="438"/>
+      <point x="516" y="350" type="curve"/>
+      <point x="506" y="294" type="line"/>
+      <point x="559" y="380"/>
+      <point x="638" y="454"/>
+      <point x="678" y="454" type="curve" smooth="yes"/>
+      <point x="703" y="454"/>
+      <point x="709" y="426"/>
+      <point x="699" y="391" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="207" y="-1" type="move" smooth="yes"/>
+      <point x="319" y="398" type="line" smooth="yes"/>
+      <point x="337" y="461"/>
+      <point x="302" y="511"/>
+      <point x="250" y="511" type="curve" smooth="yes"/>
+      <point x="200" y="511"/>
+      <point x="138" y="446"/>
+      <point x="89" y="368" type="curve"/>
+      <point x="113" y="351" type="line"/>
+      <point x="152" y="407"/>
+      <point x="183" y="445"/>
+      <point x="207" y="445" type="curve" smooth="yes"/>
+      <point x="228" y="445"/>
+      <point x="238" y="422"/>
+      <point x="230" y="393" type="curve" smooth="yes"/>
+      <point x="119" y="-1" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>path</key>
+              <string>/Users/wenzhang/Dropbox (Personal)/TypeDesign/Design/2016 fall/CSS Mono/Images/italic/lmn - CSS Mono Italic 4.jpg</string>
+              <key>transform</key>
+              <array>
+                <real>1.0302884913185728</real>
+                <real>-0.00890047900402933</real>
+                <real>0.00890047900402933</real>
+                <real>1.0302884913185728</real>
+                <real>-1215.0644037743568</real>
+                <real>-226.79054787622218</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>m</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>800</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
