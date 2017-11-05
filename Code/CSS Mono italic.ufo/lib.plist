@@ -222,6 +222,8 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.zero</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.background.layerShow</key>
+	<false/>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
 		<real>0.0</real>
@@ -397,11 +399,21 @@
 			<integer>-192</integer>
 		</dict>
 	</array>
+	<key>com.typemytype.robofont.images.layerShow</key>
+	<false/>
+	<key>com.typemytype.robofont.images.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>1.0</real>
+		<real>0.0</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>background</string>
+		<string>images</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -634,15 +646,15 @@
 				<string>j.ver.002</string>
 				<string>h.ver.002</string>
 				<string>h.ver.001</string>
-				<string>k.ver.001</string>
-				<string>k.ver.004</string>
+				<string>s.ver.004</string>
+				<string>s.ver.006</string>
+				<string>s.ver.001</string>
+				<string>n.ver.003</string>
+				<string>n.ver.001</string>
 				<string>l.ver.003</string>
 				<string>l.ver.004</string>
-				<string>n.ver.001</string>
-				<string>n.ver.003</string>
-				<string>s.ver.001</string>
-				<string>s.ver.002</string>
-				<string>s.ver.003</string>
+				<string>k.ver.004</string>
+				<string>k.ver.001</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -872,6 +884,15 @@
 		<string>j.ver.002</string>
 		<string>h.ver.002</string>
 		<string>h.ver.001</string>
+		<string>s.ver.004</string>
+		<string>s.ver.006</string>
+		<string>s.ver.001</string>
+		<string>n.ver.003</string>
+		<string>n.ver.001</string>
+		<string>l.ver.003</string>
+		<string>l.ver.004</string>
+		<string>k.ver.004</string>
+		<string>k.ver.001</string>
 	</array>
 </dict>
 </plist>
