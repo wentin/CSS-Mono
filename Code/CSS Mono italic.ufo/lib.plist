@@ -400,7 +400,7 @@
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.images.layerShow</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.images.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
