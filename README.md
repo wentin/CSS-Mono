@@ -9,7 +9,7 @@ CSS Mono is a typeface designed and optimized specifically to be used to write a
 
 ## Download the latest version
 
-> *Note: CSS Mono is not released yet, I am actively working on it. For now, you can download the prototype font to test it out and give me feedback. You are welcom to submitt an issue.*
+> *Note: CSS Mono is not released yet, I am actively working on it. For now, you can download the prototype font to test it out and give me feedback. Everyone is welcome to report issue and feedback.*
 
 * 👉🏿 [Download CSS Mono Regular](https://github.com/wentin/CSS-Mono/raw/master/build/CSS%20Mono.otf)
 * 👉🏿 [Download CSS Mono Italic](https://github.com/wentin/CSS-Mono/raw/master/build/CSS%20Mono%20italic.otf)
