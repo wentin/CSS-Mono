@@ -22,6 +22,11 @@ Please don't specify it to the italic font.
 It is best to use code editor color themes that support italic to highlight attributes, special strings, and comments. for example, these themes in particular works better with typeface with italic styles like CSS Mono
 * [Cobalt 2](https://packagecontrol.io/packages/Theme%20-%20Cobalt2)
 * [Oceanic Next Italic](https://packagecontrol.io/packages/Oceanic%20Next%20Italic%20Color%20Scheme)
+* Eiffel
+* Espresso Libre
+* iPlastic
+* Lazy
+* Mac Classic
 
 
 ##### Sublime Text 
